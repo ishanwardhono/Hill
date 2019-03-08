@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TugasAkhir</string>
+    <string name="appInfo">
+        MUHAMMAD ISHAN WARHDONO\n
+        141401075\n\n
+        HYBRID CRYPTOSYSTEM ALGORITMA HILL CIPHER 4X4 DAN
+        ALGORITMA ELLIPTIC CURVE ELGAMAL
+        PADA PENGAMANAN CITRA DIGITAL\n\n
+        TUGAS AKHIR\n\n
+        PROGRAM STUDI S1 ILMU KOMPUTER\n
+        FAKULTAS ILMU KOMPUTER DAN TEKNOLOGI INFORMASI\n
+        UNIVERSITAS SUMATERA UTARA\n
+        MEDAN\n
+        2018\n
+    </string>
+</resources>
